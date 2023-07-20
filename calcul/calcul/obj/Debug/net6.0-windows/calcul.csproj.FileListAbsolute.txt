@@ -1,0 +1,17 @@
+C:\app_desktop\calcul\calcul\bin\Debug\net6.0-windows\calcul.exe
+C:\app_desktop\calcul\calcul\bin\Debug\net6.0-windows\calcul.deps.json
+C:\app_desktop\calcul\calcul\bin\Debug\net6.0-windows\calcul.runtimeconfig.json
+C:\app_desktop\calcul\calcul\bin\Debug\net6.0-windows\calcul.dll
+C:\app_desktop\calcul\calcul\bin\Debug\net6.0-windows\calcul.pdb
+C:\app_desktop\calcul\calcul\obj\Debug\net6.0-windows\calcul.csproj.AssemblyReference.cache
+C:\app_desktop\calcul\calcul\obj\Debug\net6.0-windows\calcul.Form1.resources
+C:\app_desktop\calcul\calcul\obj\Debug\net6.0-windows\calcul.csproj.GenerateResource.cache
+C:\app_desktop\calcul\calcul\obj\Debug\net6.0-windows\calcul.GeneratedMSBuildEditorConfig.editorconfig
+C:\app_desktop\calcul\calcul\obj\Debug\net6.0-windows\calcul.AssemblyInfoInputs.cache
+C:\app_desktop\calcul\calcul\obj\Debug\net6.0-windows\calcul.AssemblyInfo.cs
+C:\app_desktop\calcul\calcul\obj\Debug\net6.0-windows\calcul.csproj.CoreCompileInputs.cache
+C:\app_desktop\calcul\calcul\obj\Debug\net6.0-windows\calcul.dll
+C:\app_desktop\calcul\calcul\obj\Debug\net6.0-windows\refint\calcul.dll
+C:\app_desktop\calcul\calcul\obj\Debug\net6.0-windows\calcul.pdb
+C:\app_desktop\calcul\calcul\obj\Debug\net6.0-windows\calcul.genruntimeconfig.cache
+C:\app_desktop\calcul\calcul\obj\Debug\net6.0-windows\ref\calcul.dll

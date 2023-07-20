@@ -1,0 +1,17 @@
+C:\app_desktop\test\test\bin\Debug\net6.0-windows\test.exe
+C:\app_desktop\test\test\bin\Debug\net6.0-windows\test.deps.json
+C:\app_desktop\test\test\bin\Debug\net6.0-windows\test.runtimeconfig.json
+C:\app_desktop\test\test\bin\Debug\net6.0-windows\test.dll
+C:\app_desktop\test\test\bin\Debug\net6.0-windows\test.pdb
+C:\app_desktop\test\test\obj\Debug\net6.0-windows\test.csproj.AssemblyReference.cache
+C:\app_desktop\test\test\obj\Debug\net6.0-windows\test.Form1.resources
+C:\app_desktop\test\test\obj\Debug\net6.0-windows\test.csproj.GenerateResource.cache
+C:\app_desktop\test\test\obj\Debug\net6.0-windows\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\app_desktop\test\test\obj\Debug\net6.0-windows\test.AssemblyInfoInputs.cache
+C:\app_desktop\test\test\obj\Debug\net6.0-windows\test.AssemblyInfo.cs
+C:\app_desktop\test\test\obj\Debug\net6.0-windows\test.csproj.CoreCompileInputs.cache
+C:\app_desktop\test\test\obj\Debug\net6.0-windows\test.dll
+C:\app_desktop\test\test\obj\Debug\net6.0-windows\refint\test.dll
+C:\app_desktop\test\test\obj\Debug\net6.0-windows\test.pdb
+C:\app_desktop\test\test\obj\Debug\net6.0-windows\test.genruntimeconfig.cache
+C:\app_desktop\test\test\obj\Debug\net6.0-windows\ref\test.dll

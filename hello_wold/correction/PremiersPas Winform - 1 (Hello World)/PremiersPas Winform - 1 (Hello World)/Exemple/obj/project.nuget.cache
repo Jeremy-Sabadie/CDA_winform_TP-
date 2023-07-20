@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FF9YvLw4xb4p0MkrVbY/2E70MdE5HaC7axNbXKblRgNrCBwc9hghF8+lMNexD4O5/NpE/p5X9F51XCrFReqo1w==",
+  "success": true,
+  "projectFilePath": "C:\\app_desktop\\hello_wold\\correction\\PremiersPas Winform - 1 (Hello World)\\PremiersPas Winform - 1 (Hello World)\\Exemple\\Exemple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cda07saba\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\cda07saba\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,34 @@
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\net6.0-windows\Exemple.exe
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\net6.0-windows\Exemple.dll.config
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\net6.0-windows\Exemple.deps.json
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\net6.0-windows\Exemple.runtimeconfig.json
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\net6.0-windows\Exemple.dll
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\net6.0-windows\Exemple.pdb
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.csproj.AssemblyReference.cache
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.frmMain.resources
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.Properties.Resources.resources
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.csproj.GenerateResource.cache
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.csproj.CoreCompileInputs.cache
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.dll
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\refint\Exemple.dll
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.pdb
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.genruntimeconfig.cache
+D:\.Net 6\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\ref\Exemple.dll
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\net6.0-windows\Exemple.exe
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\net6.0-windows\Exemple.dll.config
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\net6.0-windows\Exemple.deps.json
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\net6.0-windows\Exemple.runtimeconfig.json
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\net6.0-windows\Exemple.dll
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\net6.0-windows\Exemple.pdb
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.csproj.AssemblyReference.cache
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.frmMain.resources
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.Properties.Resources.resources
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.csproj.GenerateResource.cache
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.csproj.CoreCompileInputs.cache
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.dll
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\refint\Exemple.dll
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.pdb
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\Exemple.genruntimeconfig.cache
+D:\CDA7\1 - Interfaces Winforms (Net 6)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\net6.0-windows\ref\Exemple.dll

@@ -1,0 +1,96 @@
+C:\Users\SB\AppData\Local\Temporary Projects\Exemple\bin\Debug\Exemple.exe.config
+C:\Users\SB\AppData\Local\Temporary Projects\Exemple\bin\Debug\Exemple.exe
+C:\Users\SB\AppData\Local\Temporary Projects\Exemple\bin\Debug\Exemple.pdb
+C:\Users\SB\AppData\Local\Temporary Projects\Exemple\obj\Debug\Exemple.csprojResolveAssemblyReference.cache
+C:\Users\SB\AppData\Local\Temporary Projects\Exemple\obj\Debug\Exemple.Properties.Resources.resources
+C:\Users\SB\AppData\Local\Temporary Projects\Exemple\obj\Debug\Exemple.csproj.GenerateResource.Cache
+C:\Users\SB\AppData\Local\Temporary Projects\Exemple\obj\Debug\Exemple.exe
+C:\Users\SB\AppData\Local\Temporary Projects\Exemple\obj\Debug\Exemple.pdb
+D:\Exemple\Exemple\bin\Debug\Exemple.exe.config
+D:\Exemple\Exemple\obj\Debug\Exemple.exe
+D:\Exemple\Exemple\obj\Debug\Exemple.pdb
+D:\Exemple - 1\Exemple\bin\Debug\Exemple.exe.config
+D:\Exemple - 1\Exemple\obj\Debug\Exemple.exe
+D:\Exemple - 1\Exemple\obj\Debug\Exemple.pdb
+D:\Exemple - 1\Exemple\bin\Debug\Exemple.exe
+D:\Exemple - 1\Exemple\bin\Debug\Exemple.pdb
+D:\Exemple - 1\Exemple\obj\Debug\Exemple.Properties.Resources.resources
+D:\Exemple - 1\Exemple\obj\Debug\Exemple.csproj.GenerateResource.Cache
+D:\Exemple - 1\Exemple\obj\Debug\Exemple.frmMain.resources
+D:\Serge Boisseau\Documents\Formations\DL\Ateliers - C#\1 - Les bases\0 - Premier prog\Exemple\bin\Debug\Exemple.exe.config
+D:\Serge Boisseau\Documents\Formations\DL\Ateliers - C#\1 - Les bases\0 - Premier prog\Exemple\obj\Debug\Exemple.exe
+D:\Serge Boisseau\Documents\Formations\DL\Ateliers - C#\1 - Les bases\0 - Premier prog\Exemple\obj\Debug\Exemple.pdb
+D:\Serge Boisseau\Documents\Formations\DL\Ateliers - C#\1 - Les bases\0 - Premier prog\Exemple\bin\Debug\Exemple.exe
+D:\Serge Boisseau\Documents\Formations\DL\Ateliers - C#\1 - Les bases\0 - Premier prog\Exemple\bin\Debug\Exemple.pdb
+D:\Serge Boisseau\Documents\Formations\DL\Ateliers - C#\1 - Les bases\0 - Premier prog\Exemple\obj\Debug\Exemple.csprojResolveAssemblyReference.cache
+D:\Serge Boisseau\Documents\Formations\DL\Ateliers - C#\1 - Les bases\0 - Premier prog\Exemple\obj\Debug\Exemple.frmMain.resources
+D:\Serge Boisseau\Documents\Formations\DL\Ateliers - C#\1 - Les bases\0 - Premier prog\Exemple\obj\Debug\Exemple.Properties.Resources.resources
+D:\Serge Boisseau\Documents\Formations\DL\Ateliers - C#\1 - Les bases\0 - Premier prog\Exemple\obj\Debug\Exemple.csproj.GenerateResource.Cache
+D:\Serge Boisseau\Mes Programmes\Formations\DL\Ateliers - C#\1 - Les bases\0 - Premier prog\Exemple\bin\Debug\Exemple.exe.config
+D:\Serge Boisseau\Mes Programmes\Formations\DL\Ateliers - C#\1 - Les bases\0 - Premier prog\Exemple\obj\Debug\Exemple.exe
+D:\Serge Boisseau\Mes Programmes\Formations\DL\Ateliers - C#\1 - Les bases\0 - Premier prog\Exemple\obj\Debug\Exemple.pdb
+D:\Serge Boisseau\Mes Programmes\Formations\DL\Ateliers - C#\1 - Les bases\0 - PremiersPas Winform\Exemple\bin\Debug\Exemple.exe.config
+D:\Serge Boisseau\Mes Programmes\Formations\DL\Ateliers - C#\1 - Les bases\0 - PremiersPas Winform\Exemple\obj\Debug\Exemple.exe
+D:\Serge Boisseau\Mes Programmes\Formations\DL\Ateliers - C#\1 - Les bases\0 - PremiersPas Winform\Exemple\obj\Debug\Exemple.pdb
+D:\Serge Boisseau\Mes Programmes\Formations\DL\Ateliers - C#\1 - Les bases\0 - PremiersPas Winform\Exemple\obj\Debug\Exemple.frmMain.resources
+D:\Serge Boisseau\Mes Programmes\Formations\DL\Ateliers - C#\1 - Les bases\0 - PremiersPas Winform\Exemple\obj\Debug\Exemple.Properties.Resources.resources
+D:\Serge Boisseau\Mes Programmes\Formations\DL\Ateliers - C#\1 - Les bases\0 - PremiersPas Winform\Exemple\obj\Debug\Exemple.csproj.GenerateResource.Cache
+D:\Serge Boisseau\Mes Programmes\Formations\DL\Ateliers - C#\1 - Les bases\0 - PremiersPas Winform\Exemple\bin\Debug\Exemple.exe
+D:\Serge Boisseau\Mes Programmes\Formations\DL\Ateliers - C#\1 - Les bases\0 - PremiersPas Winform\Exemple\bin\Debug\Exemple.pdb
+D:\0 - PremiersPas Winform\Exemple\bin\Debug\Exemple.exe.config
+D:\0 - PremiersPas Winform\Exemple\obj\Debug\Exemple.exe
+D:\0 - PremiersPas Winform\Exemple\obj\Debug\Exemple.pdb
+D:\0 - PremiersPas Winform\Exemple\bin\Debug\Exemple.exe
+D:\0 - PremiersPas Winform\Exemple\bin\Debug\Exemple.pdb
+D:\0 - PremiersPas Winform\Exemple\obj\Debug\Exemple.frmMain.resources
+D:\0 - PremiersPas Winform\Exemple\obj\Debug\Exemple.Properties.Resources.resources
+D:\0 - PremiersPas Winform\Exemple\obj\Debug\Exemple.csproj.GenerateResource.Cache
+D:\0 - PremiersPas Winform\Exemple\obj\Debug\Exemple.csprojResolveAssemblyReference.cache
+D:\DL09\1 - WinForms\1 - PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.exe.config
+D:\DL09\1 - WinForms\1 - PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.exe
+D:\DL09\1 - WinForms\1 - PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.pdb
+D:\DL09\1 - WinForms\1 - PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.exe
+D:\DL09\1 - WinForms\1 - PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.pdb
+D:\DL09\1 - WinForms\1 - PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csprojResolveAssemblyReference.cache
+D:\DL09\1 - WinForms\1 - PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.frmMain.resources
+D:\DL09\1 - WinForms\1 - PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.Properties.Resources.resources
+D:\DL09\1 - WinForms\1 - PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csproj.GenerateResource.Cache
+D:\Mes raccourcis\Formations\DL\Ateliers - C#\1 - PremiersPas Winform\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.exe.config
+D:\Mes raccourcis\Formations\DL\Ateliers - C#\1 - PremiersPas Winform\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.exe
+D:\Mes raccourcis\Formations\DL\Ateliers - C#\1 - PremiersPas Winform\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.pdb
+D:\Mes raccourcis\Formations\DL\Ateliers - C#\1 - PremiersPas Winform\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.exe
+D:\Mes raccourcis\Formations\DL\Ateliers - C#\1 - PremiersPas Winform\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.pdb
+D:\Mes raccourcis\Formations\DL\Ateliers - C#\1 - PremiersPas Winform\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csprojResolveAssemblyReference.cache
+D:\Mes raccourcis\Formations\DL\Ateliers - C#\1 - PremiersPas Winform\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.frmMain.resources
+D:\Mes raccourcis\Formations\DL\Ateliers - C#\1 - PremiersPas Winform\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.Properties.Resources.resources
+D:\Mes raccourcis\Formations\DL\Ateliers - C#\1 - PremiersPas Winform\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csproj.GenerateResource.Cache
+C:\Users\gg\Desktop\M2\PremiersPas Winform - 1 (Hello World)\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.exe.config
+C:\Users\gg\Desktop\M2\PremiersPas Winform - 1 (Hello World)\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.exe
+C:\Users\gg\Desktop\M2\PremiersPas Winform - 1 (Hello World)\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.pdb
+C:\Users\gg\Desktop\M2\PremiersPas Winform - 1 (Hello World)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csprojAssemblyReference.cache
+C:\Users\gg\Desktop\M2\PremiersPas Winform - 1 (Hello World)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.frmMain.resources
+C:\Users\gg\Desktop\M2\PremiersPas Winform - 1 (Hello World)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.Properties.Resources.resources
+C:\Users\gg\Desktop\M2\PremiersPas Winform - 1 (Hello World)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csproj.GenerateResource.cache
+C:\Users\gg\Desktop\M2\PremiersPas Winform - 1 (Hello World)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csproj.CoreCompileInputs.cache
+C:\Users\gg\Desktop\M2\PremiersPas Winform - 1 (Hello World)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.exe
+C:\Users\gg\Desktop\M2\PremiersPas Winform - 1 (Hello World)\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.pdb
+C:\Users\gg\Downloads\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.exe.config
+C:\Users\gg\Downloads\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.exe
+C:\Users\gg\Downloads\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.pdb
+C:\Users\gg\Downloads\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csprojAssemblyReference.cache
+C:\Users\gg\Downloads\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.frmMain.resources
+C:\Users\gg\Downloads\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.Properties.Resources.resources
+C:\Users\gg\Downloads\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csproj.GenerateResource.cache
+C:\Users\gg\Downloads\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csproj.CoreCompileInputs.cache
+C:\Users\gg\Downloads\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.exe
+C:\Users\gg\Downloads\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.pdb
+D:\CDA03 - M2\1 - Interfaces Winforms\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.exe.config
+D:\CDA03 - M2\1 - Interfaces Winforms\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.exe
+D:\CDA03 - M2\1 - Interfaces Winforms\PremiersPas Winform - 1 (Hello World)\Exemple\bin\Debug\Exemple.pdb
+D:\CDA03 - M2\1 - Interfaces Winforms\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csprojAssemblyReference.cache
+D:\CDA03 - M2\1 - Interfaces Winforms\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.frmMain.resources
+D:\CDA03 - M2\1 - Interfaces Winforms\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.Properties.Resources.resources
+D:\CDA03 - M2\1 - Interfaces Winforms\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csproj.GenerateResource.cache
+D:\CDA03 - M2\1 - Interfaces Winforms\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.csproj.CoreCompileInputs.cache
+D:\CDA03 - M2\1 - Interfaces Winforms\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.exe
+D:\CDA03 - M2\1 - Interfaces Winforms\PremiersPas Winform - 1 (Hello World)\Exemple\obj\Debug\Exemple.pdb

@@ -1,0 +1,17 @@
+C:\app_desktop\hello_wold\hello_wold\bin\Debug\net6.0-windows\hello_wold.exe
+C:\app_desktop\hello_wold\hello_wold\bin\Debug\net6.0-windows\hello_wold.deps.json
+C:\app_desktop\hello_wold\hello_wold\bin\Debug\net6.0-windows\hello_wold.runtimeconfig.json
+C:\app_desktop\hello_wold\hello_wold\bin\Debug\net6.0-windows\hello_wold.dll
+C:\app_desktop\hello_wold\hello_wold\bin\Debug\net6.0-windows\hello_wold.pdb
+C:\app_desktop\hello_wold\hello_wold\obj\Debug\net6.0-windows\hello_wold.csproj.AssemblyReference.cache
+C:\app_desktop\hello_wold\hello_wold\obj\Debug\net6.0-windows\hello_wold.csproj.GenerateResource.cache
+C:\app_desktop\hello_wold\hello_wold\obj\Debug\net6.0-windows\hello_wold.GeneratedMSBuildEditorConfig.editorconfig
+C:\app_desktop\hello_wold\hello_wold\obj\Debug\net6.0-windows\hello_wold.AssemblyInfoInputs.cache
+C:\app_desktop\hello_wold\hello_wold\obj\Debug\net6.0-windows\hello_wold.AssemblyInfo.cs
+C:\app_desktop\hello_wold\hello_wold\obj\Debug\net6.0-windows\hello_wold.csproj.CoreCompileInputs.cache
+C:\app_desktop\hello_wold\hello_wold\obj\Debug\net6.0-windows\hello_wold.dll
+C:\app_desktop\hello_wold\hello_wold\obj\Debug\net6.0-windows\refint\hello_wold.dll
+C:\app_desktop\hello_wold\hello_wold\obj\Debug\net6.0-windows\hello_wold.pdb
+C:\app_desktop\hello_wold\hello_wold\obj\Debug\net6.0-windows\hello_wold.genruntimeconfig.cache
+C:\app_desktop\hello_wold\hello_wold\obj\Debug\net6.0-windows\ref\hello_wold.dll
+C:\app_desktop\hello_wold\hello_wold\obj\Debug\net6.0-windows\hello_wold.Frm_container.resources

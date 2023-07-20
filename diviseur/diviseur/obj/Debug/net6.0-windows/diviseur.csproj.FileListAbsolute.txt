@@ -1,0 +1,17 @@
+C:\app_desktop\diviseur\diviseur\bin\Debug\net6.0-windows\diviseur.exe
+C:\app_desktop\diviseur\diviseur\bin\Debug\net6.0-windows\diviseur.deps.json
+C:\app_desktop\diviseur\diviseur\bin\Debug\net6.0-windows\diviseur.runtimeconfig.json
+C:\app_desktop\diviseur\diviseur\bin\Debug\net6.0-windows\diviseur.dll
+C:\app_desktop\diviseur\diviseur\bin\Debug\net6.0-windows\diviseur.pdb
+C:\app_desktop\diviseur\diviseur\obj\Debug\net6.0-windows\diviseur.csproj.AssemblyReference.cache
+C:\app_desktop\diviseur\diviseur\obj\Debug\net6.0-windows\diviseur.Form1.resources
+C:\app_desktop\diviseur\diviseur\obj\Debug\net6.0-windows\diviseur.csproj.GenerateResource.cache
+C:\app_desktop\diviseur\diviseur\obj\Debug\net6.0-windows\diviseur.GeneratedMSBuildEditorConfig.editorconfig
+C:\app_desktop\diviseur\diviseur\obj\Debug\net6.0-windows\diviseur.AssemblyInfoInputs.cache
+C:\app_desktop\diviseur\diviseur\obj\Debug\net6.0-windows\diviseur.AssemblyInfo.cs
+C:\app_desktop\diviseur\diviseur\obj\Debug\net6.0-windows\diviseur.csproj.CoreCompileInputs.cache
+C:\app_desktop\diviseur\diviseur\obj\Debug\net6.0-windows\diviseur.dll
+C:\app_desktop\diviseur\diviseur\obj\Debug\net6.0-windows\refint\diviseur.dll
+C:\app_desktop\diviseur\diviseur\obj\Debug\net6.0-windows\diviseur.pdb
+C:\app_desktop\diviseur\diviseur\obj\Debug\net6.0-windows\diviseur.genruntimeconfig.cache
+C:\app_desktop\diviseur\diviseur\obj\Debug\net6.0-windows\ref\diviseur.dll

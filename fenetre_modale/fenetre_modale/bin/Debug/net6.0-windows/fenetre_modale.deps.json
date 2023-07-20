@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "fenetre_modale/1.0.0": {
+        "runtime": {
+          "fenetre_modale.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fenetre_modale/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
