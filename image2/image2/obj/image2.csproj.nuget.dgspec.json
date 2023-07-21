@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\app_desktop\\image2\\image2\\image2.csproj": {}
+    "C:\\app_desktop\\CDA_winform_TP-\\image2\\image2\\image2.csproj": {}
   },
   "projects": {
-    "C:\\app_desktop\\image2\\image2\\image2.csproj": {
+    "C:\\app_desktop\\CDA_winform_TP-\\image2\\image2\\image2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\app_desktop\\image2\\image2\\image2.csproj",
+        "projectUniqueName": "C:\\app_desktop\\CDA_winform_TP-\\image2\\image2\\image2.csproj",
         "projectName": "image2",
-        "projectPath": "C:\\app_desktop\\image2\\image2\\image2.csproj",
+        "projectPath": "C:\\app_desktop\\CDA_winform_TP-\\image2\\image2\\image2.csproj",
         "packagesPath": "C:\\Users\\cda07saba\\.nuget\\packages\\",
-        "outputPath": "C:\\app_desktop\\image2\\image2\\obj\\",
+        "outputPath": "C:\\app_desktop\\CDA_winform_TP-\\image2\\image2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = image2
-build_property.ProjectDir = C:\app_desktop\image2\image2\
+build_property.ProjectDir = C:\app_desktop\CDA_winform_TP-\image2\image2\

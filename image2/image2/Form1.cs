@@ -179,9 +179,9 @@ namespace image2
         {//La pictureBox est incluse dans le panel:
             panel1.Controls.Contains(pictureBox1);
             //Paramètre de la taille de l'image:
-            pictureBox1.SizeMode = PictureBoxSizeMode.AutoSize;
+
             //Définition du scroll sur le conteneur:
-            panel1.AutoScroll = true;
+
 
             //Si pas de chemin sélectionné, un message est affiché:
             if (PathList.SelectedItem == null)

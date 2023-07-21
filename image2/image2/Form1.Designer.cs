@@ -38,15 +38,19 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // PathList
             // 
+            this.PathList.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.PathList.FormattingEnabled = true;
             this.PathList.ItemHeight = 15;
-            this.PathList.Location = new System.Drawing.Point(190, 76);
+            this.PathList.Location = new System.Drawing.Point(-1, 76);
             this.PathList.Name = "PathList";
-            this.PathList.Size = new System.Drawing.Size(321, 139);
+            this.PathList.Size = new System.Drawing.Size(512, 139);
             this.PathList.TabIndex = 0;
             this.PathList.SelectedIndexChanged += new System.EventHandler(this.PathList_SelectedIndexChanged_1);
             // 
@@ -81,6 +85,7 @@
             // 
             // btAdd
             // 
+            this.btAdd.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btAdd.Image = global::image2.Properties.Resources.green_cross;
             this.btAdd.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btAdd.Location = new System.Drawing.Point(517, 76);
@@ -93,6 +98,7 @@
             // 
             // btDelete
             // 
+            this.btDelete.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btDelete.Image = global::image2.Properties.Resources.res_cross;
             this.btDelete.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btDelete.Location = new System.Drawing.Point(517, 121);
@@ -105,6 +111,7 @@
             // 
             // btClear
             // 
+            this.btClear.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btClear.Image = global::image2.Properties.Resources.cleaner;
             this.btClear.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btClear.Location = new System.Drawing.Point(517, 177);
@@ -117,27 +124,31 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(12, 239);
+            this.pictureBox1.Location = new System.Drawing.Point(238, 73);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(115, 295);
+            this.pictureBox1.Size = new System.Drawing.Size(346, 168);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox1.TabIndex = 7;
             this.pictureBox1.TabStop = false;
             // 
             // panel1
             // 
+            this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.panel1.AutoScroll = true;
-            this.panel1.Location = new System.Drawing.Point(2, 221);
+            this.panel1.Controls.Add(this.pictureBox1);
+            this.panel1.Location = new System.Drawing.Point(12, 221);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(756, 340);
+            this.panel1.Size = new System.Drawing.Size(796, 340);
             this.panel1.TabIndex = 8;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(770, 573);
+            this.ClientSize = new System.Drawing.Size(810, 573);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btClear);
             this.Controls.Add(this.btDelete);
             this.Controls.Add(this.btAdd);
@@ -149,6 +160,8 @@
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
